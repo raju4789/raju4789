@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hi, I'm Raju MLN! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
 
-<!--
-**raju4789/raju4789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin: rajumln](https://img.shields.io/badge/-rajumln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raju-m-l-n/)](https://www.linkedin.com/in/raju-m-l-n/)
+ 
+* Data Analyst @ DBS Bank
+* B.Tech, Computer Science from NIT Raipur.
+* Tech Stack: <b> PYTHON, SQL, R, Data Science, Machine Learning</b> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for role in field of Data Engineering, Data Science and Machine Learning.
+---
+
+
+
+
+
