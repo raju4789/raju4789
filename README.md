@@ -5,7 +5,7 @@
  
 * Data Analyst/ Software Engineer @ DBS Bank
 * B.Tech, Computer Science from NIT Raipur.
-* Tech Stack: <b> Java, Javascript, PYTHON, SQL, Spring Boot, Node JS,Data Science, Machine Learning</b> 
+* Tech Stack: <b> Java, Javascript, PYTHON, SQL, Spring Boot, Node JS,Microservices, Data Science, Machine Learning</b> 
 ---
 
 
