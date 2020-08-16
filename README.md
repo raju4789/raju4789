@@ -4,7 +4,7 @@
 [![Linkedin: rajumln](https://img.shields.io/badge/-rajumln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raju-m-l-n/)](https://www.linkedin.com/in/raju-m-l-n/)
  
 * Data Analyst/ Software Engineer @ DBS Bank
-* B.Tech, Computer Science from NIT Raipur.
+* B.Tech, Computer Science @ NIT Raipur.
 * __Tech Stack:__ Java, Javascript, Python, SQL, Spring Boot, Node JS, React JS,Postgres/MySQL, MongoDB, Microservices, REST, Data Science, Machine Learning
 ---
 
