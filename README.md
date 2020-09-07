@@ -8,6 +8,7 @@
 * __Tech Stack:__ Java, Javascript, Python, SQL, Spring Boot, Node JS, React JS, Postgres/MySQL, MongoDB, Microservices, REST, Data Science, Machine Learning.
 
 ![image.png](./images/skill.png)<br><br>
+
 ---
 
 
