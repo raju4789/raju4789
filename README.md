@@ -1,7 +1,10 @@
 <h2> Hi, I'm Raju MLN! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
 
 <p>
-With  nearly 9 years of experience as a Certified Full Stack Software Engineer, I have a proven track record in end-to-end software development across varied domains, including insurance, e-commerce, banking, and airlines. My aim is to contribute my diverse skill set and knowledge to a dynamic platform where I can effectively showcase my capabilities. Additionally, I am eager to take on leadership responsibilities and eventually lead a team if given the opportunity.
+As a seasoned IT professional with nearly 9 years of experience as a Certified Full Stack Software Engineer, I bring rich expertise in Web Application Development and Project Management across diverse domains such as Banking, e-commerce, Airline, and Incident management.
+</p>
+<p>
+My expertise spans both front-end and back-end development, encompassing skills in mapping business requirements, application design, development, integration, testing, and troubleshooting. I have a thorough understanding of application architecture, design principles, technology usage, and end-to-end solution designing, ensuring robust and scalable solutions.
 </p>
 
 ---
