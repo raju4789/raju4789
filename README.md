@@ -1,15 +1,20 @@
-<h2> Hi, I'm Raju MLN! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
+# About Me  
 
-<p>
-As a seasoned IT professional with nearly 9 years of experience as a Certified Full Stack Software Engineer, I bring rich expertise in Web Application Development and Project Management across diverse domains such as Banking, e-commerce, Airline, and Incident management.
-</p>
-<p>
-My expertise spans both front-end and back-end development, encompassing skills in mapping business requirements, application design, development, integration, testing, and troubleshooting. I have a thorough understanding of application architecture, design principles, technology usage, and end-to-end solution designing, ensuring robust and scalable solutions.
-</p>
+Hi there! 👋  
 
----
+I’m **Raju**, a Senior Software Engineer with over **9.6 years of experience** in designing, developing, and scaling web applications across industries like Airlines, E-commerce, Banking, and Insurance.  
 
+### 🛠️ My Expertise:  
+- **Full-Stack Development**: Proficient in Java Spring Boot and React.js, with additional experience in Scala and Python.  
+- **Microservices & Distributed Systems**: Building scalable, reliable systems using REST APIs, Kafka, and GraphQL.  
+- **System Design & Optimization**: Designing resilient microservices architectures and optimizing performance with tools like Grafana and Prometheus.  
+- **Cloud & DevOps**: Hands-on experience with Docker, Kubernetes, CI/CD pipelines, and cloud deployments.  
+- **Database Management**: Skilled in both relational databases (MySQL, SQL Server) and NoSQL technologies (MongoDB).  
 
+### 🚀 Passion for Learning & Sharing:  
+I’m passionate about emerging technologies like AI tools (e.g., ChatGPT, MLFlow) and writing about software engineering best practices, leadership, and DevOps strategies.  
 
+💻 Check out my repositories for hands-on projects, innovative ideas, and practical solutions. Let’s collaborate and build something amazing together!  
 
-
+📬 **Let’s Connect**:  
+Feel free to reach out if you want to discuss technology, coding, or collaborate on open-source projects.  
