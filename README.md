@@ -1,20 +1,48 @@
-# About Me  
+# 👋 Hi, I'm Raju M L N 
 
-Hi there! 👋  
+**Senior Software Engineer | Microservices Architect | Tech Evangelist**  
+*Building scalable systems that power critical industries*
 
-I’m **Raju**, a Senior Software Engineer with over **9.6 years of experience** in designing, developing, and scaling web applications across industries like Airlines, E-commerce, Banking, and Insurance.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raju-m-l-n/)
+[![Medium](https://img.shields.io/badge/Medium-Read%20Blog-black?style=flat&logo=medium)](https://medium.com/@narasimha4789)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/raju4789)
 
-### 🛠️ My Expertise:  
-- **Full-Stack Development**: Proficient in Java Spring Boot and React.js, with additional experience in Scala and Python.  
-- **Microservices & Distributed Systems**: Building scalable, reliable systems using REST APIs, Kafka, and GraphQL.  
-- **System Design & Optimization**: Designing resilient microservices architectures and optimizing performance with tools like Grafana and Prometheus.  
-- **Cloud & DevOps**: Hands-on experience with Docker, Kubernetes, CI/CD pipelines, and cloud deployments.  
-- **Database Management**: Skilled in both relational databases (MySQL, SQL Server) and NoSQL technologies (MongoDB).  
+## 🛠 Technical Expertise
 
-### 🚀 Passion for Learning & Sharing:  
-I’m passionate about emerging technologies like AI tools (e.g., ChatGPT, MLFlow) and writing about software engineering best practices, leadership, and DevOps strategies.  
+### Backend Development
+![Java](https://img.shields.io/badge/Java-Expert-red?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Pro-brightgreen?logo=spring)
+![Scala](https://img.shields.io/badge/Scala-Intermediate-red?logo=scala)
 
-💻 Check out my repositories for hands-on projects, innovative ideas, and practical solutions. Let’s collaborate and build something amazing together!  
+### Distributed Systems
+![Kafka](https://img.shields.io/badge/Apache_Kafka-Advanced-blue?logo=apachekafka)
+![GraphQL](https://img.shields.io/badge/GraphQL-Intermediate-pink?logo=graphql)
 
-📬 **Let’s Connect**:  
-Feel free to reach out if you want to discuss technology, coding, or collaborate on open-source projects.  
+### Cloud & DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Expert-blue?logo=docker)
+
+
+## ✍️ Tech Writing & Community
+- Regular contributor on [Medium](https://medium.com/@narasimha4789) covering:
+  - Java/Spring Boot best practices
+  - System design patterns
+  - DevOps strategies
+- Open-source maintainer with production-grade code samples
+- Speaker at tech meetups on Microservices & Cloud topics
+
+## 🌱 Currently Exploring
+- AI/ML integrations in enterprise systems
+- Serverless architectures
+- Performance engineering at scale
+
+## 💬 Let's Connect
+I'm always open to:
+- Technical discussions
+- Collaboration opportunities
+- Mentoring junior engineers
+
+📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raju-m-l-n/)
+
+> *"Architecting systems that don't just work, but excel under pressure."*
