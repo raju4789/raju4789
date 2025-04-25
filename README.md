@@ -38,6 +38,7 @@
 
 ## 💬 Let's Connect
 I'm always open to:
+- New Opportunities
 - Technical discussions
 - Collaboration opportunities
 - Mentoring junior engineers
