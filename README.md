@@ -27,7 +27,7 @@ I'm a **Senior Full Stack Engineer** with over **10 years** of experience delive
 |--------|--------|
 | 💰 **Cost Savings** | $5.6M+ through innovative solutions |
 | 🚀 **Projects Delivered** | 15+ enterprise-grade applications |
-| 👨‍🏫 **Engineers Mentored** | 5+ junior developers (reduced ramp-up by 33%) |
+| 👨‍🏫 **Engineers Mentored** | 5+ junior developers|
 | ⚡ **Performance Gains** | Up to 30% throughput improvement |
 
 ### 🏆 Notable Achievements at Agoda
@@ -93,8 +93,6 @@ I'm a **Senior Full Stack Engineer** with over **10 years** of experience delive
 
 Leading development of high-performance web applications in online travel industry. Architecting microservices, implementing AI automation, and optimizing system performance.
 
-**Tech Stack:** Java, Spring Boot, React.js, Microservices, Kafka, MySQL, Redis, Docker, Kubernetes, Grafana, AI/ChatGPT
-
 ### 🏦 DBS Bank - Software Engineer / Data Analyst
 **Jun 2019 - Jan 2021 (1.7 years) | Hyderabad, India**
 
@@ -121,19 +119,7 @@ Developed custom dashboards and data visualization solutions for insurance indus
 ## 🎓 Education
 
 **🏛️ National Institute of Technology (NIT) Raipur**  
-Bachelor of Technology in Computer Science
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raju4789&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raju4789&layout=compact&theme=radical&hide_border=true)
-
-</div>
+Bachelor of Technology in Computer Science - 8.21 CGPA
 
 ---
 
