@@ -15,7 +15,6 @@ Currently @ **Agoda** (Bangkok, Thailand) | **Open to exciting opportunities glo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raju-m-l-n/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@narasimha4789)
 
-📍 **Location:** Bangkok, Thailand (Open to relocation/remote)
 
 ---
 
