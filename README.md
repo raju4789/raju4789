@@ -7,13 +7,7 @@
 Currently @ **Agoda** (Bangkok, Thailand) | **Open to exciting opportunities globally**
 
 ---
-
-### 📧 **Email:** 
-
-```
-narasimha4789@gmail.com
-```
-*(Select and copy the email above)*
+ 📧 **Email:** narasimha4789@gmail.com
 
 📍 **Location:** Bangkok, Thailand (Open to relocation/remote)
 
