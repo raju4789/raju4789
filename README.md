@@ -53,7 +53,7 @@ I'm a **Senior Full Stack Engineer** with over **10 years** of experience delive
 **10 years Java** | **8 years Spring Boot** | **7 years Microservices**
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React.js-Advanced-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React.js-Intermediate-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black)
 
