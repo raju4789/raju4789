@@ -1,5 +1,18 @@
 # 👋 Hi, I'm Raju Methuku
 
+## 🚀 Senior Full Stack Engineer | 10+ Years Experience
+
+**Building scalable, high-performance systems that drive real business impact**
+
+Currently @ **Agoda** (Bangkok, Thailand) | **Open to exciting opportunities globally**
+
+---
+
+> ### 📧 **CONTACT ME:**  `narasimha4789@gmail.com`
+> 📍 **Location:** Bangkok, Thailand (Open to relocation/remote)
+
+---
+
 <div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=react)](https://raju4789.github.io)
@@ -7,12 +20,6 @@
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@narasimha4789)
 
 </div>
-
-## 🚀 Senior Full Stack Engineer | 10+ Years Experience
-
-**Building scalable, high-performance systems that drive real business impact**
-
-Currently @ **Agoda** (Bangkok, Thailand) | Open to exciting opportunities globally
 
 ---
 
@@ -173,18 +180,6 @@ I'm always open to discussing:
 - 💬 **Consulting** - Architecture reviews and technical guidance
 
 <div align="center">
-
-### 📧 Email Me
-
-```
-narasimha4789@gmail.com
-```
-
-📱 **Phone:** `+66 0971061627` | `+91 7697129711`
-
-📍 **Location:** Bangkok, Thailand (Open to relocation/remote)
-
----
 
 [![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-brightgreen?style=for-the-badge)](https://raju4789.github.io)
 
