@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=react)](https://raju4789.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raju-m-l-n/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@narasimha4789)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:narasimha4789@gmail.com)
 
 </div>
 
@@ -175,9 +174,15 @@ I'm always open to discussing:
 
 <div align="center">
 
-### 📧 Email: narasimha4789@gmail.com
-### 📱 Phone: +66 0971061627 | +91 7697129711
-### 📍 Location: Bangkok, Thailand (Open to relocation/remote)
+### 📧 Email Me
+
+```
+narasimha4789@gmail.com
+```
+
+📱 **Phone:** `+66 0971061627` | `+91 7697129711`
+
+📍 **Location:** Bangkok, Thailand (Open to relocation/remote)
 
 ---
 
