@@ -8,13 +8,11 @@ Currently @ **Agoda** (Bangkok, Thailand) | **Open to exciting opportunities glo
 
 ---
 
-> ### 📧 **CONTACT ME:**  `narasimha4789@gmail.com`
-> 📍 **Location:** Bangkok, Thailand (Open to relocation/remote)
-
----
+### 📧 Contact: `narasimha4789@gmail.com` 📍 Bangkok, Thailand
 
 <div align="left">
 
+[![Email](https://img.shields.io/badge/Email-narasimha4789@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narasimha4789@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=react)](https://raju4789.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raju-m-l-n/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@narasimha4789)
