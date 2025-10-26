@@ -54,14 +54,14 @@ I'm a **Senior Full Stack Engineer** with over **10 years** of experience delive
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React.js-Intermediate-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)
 
 **4 years React** | **4 years TypeScript** | **8 years JavaScript**
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-Advanced-231F20?logo=apachekafka)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Expert-239120?logo=jenkins)
 
@@ -70,8 +70,8 @@ I'm a **Senior Full Stack Engineer** with over **10 years** of experience delive
 ### Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Expert-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-47A248?logo=mongodb&logoColor=white)
 
 ### Monitoring & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-Advanced-F46800?logo=grafana&logoColor=white)
@@ -139,7 +139,7 @@ Bachelor of Technology in Computer Science - 8.21 CGPA
 ```yaml
 Technical:
   - Microservices Architecture & System Design
-  - Full Stack Development (Java/Spring Boot/React)
+  - Full Stack Development (Java/Spring Boot/React/TypeScript)
   - Cloud-Native Development (Docker, Kubernetes)
   - Performance Optimization & Scalability
   - AI-Driven Automation & Innovation
@@ -168,7 +168,7 @@ Soft Skills:
 ## 📫 Let's Connect!
 
 I'm always open to discussing:
-- 💼 **Job Opportunities** - Senior/Lead/Principal Engineer roles
+- 💼 **Job Opportunities** - Senior/Staff Engineer roles
 - 🤝 **Technical Collaborations** - Open source and innovative projects
 - 🎤 **Speaking Engagements** - Tech talks on microservices, system design
 - 👨‍🏫 **Mentorship** - Helping junior engineers grow
